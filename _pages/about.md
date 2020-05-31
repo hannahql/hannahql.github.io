@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year PhD Candidate at Stanford University, advised by Ramesh Johari and Gabriel Weintraub. 
+Hi! I'm Hannah. I'm a fourth year PhD Candidate at Stanford University, where I'm advised by Ramesh Johari and Gabriel Weintraub. I'm a member of the Operations Research group within Management Science & Engineering and part of the Society and Algorithms Lab. 
+
+
