@@ -16,6 +16,6 @@ I also have industry experience working on these marketplaces. I previously inte
 
 Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
-In my spare time, you can find me taking art classes, trying new recipes, or under a barbell. 
+# In my spare time, you can find me taking art classes, trying new recipes, or under a barbell. 
 
 
