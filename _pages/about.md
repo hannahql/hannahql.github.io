@@ -22,10 +22,11 @@ Before coming to Stanford, I graduated from Pomona College with a degree in math
 * Tan Truong, Hannah Li, Young-Kwon Hong, Lu Chen. Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1. PLoS One, 2014. 
 
 # Teaching Experience
-* Fundamentals of Data Science, Stanford - Teaching Assistant
-* Data Science for Online Marketplaces, Stanford - Teaching Assistant
-* Abstract Algebra, Pomona College - Teaching Assistant
-* Operations Research, Pomona College - Teaching Assistant
-* Calculus II Honors, Pomona College - Teaching Assistant
+Teaching Assistant
+* Fundamentals of Data Science, Stanford 
+* Data Science for Online Marketplaces, Stanford 
+* Abstract Algebra, Pomona College 
+* Operations Research, Pomona College 
+* Calculus II Honors, Pomona College 
 
 
