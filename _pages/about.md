@@ -16,5 +16,16 @@ I inform my research with first hand experience working on these platforms. I in
 
 Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
+# Publications
+* Ramesh Johari, Hannah Li, Gabriel Weintraub. Experimental Design in Two-Sided Platforms: An Analysis of Bias. To appear in ACM Conference on Economics and Computation (EC), 2020.
+* Ramesh Johari, Vijay Kamble, Anilesh K. Krishnaswamy, Hannah Li. Exploration vs. Exploitation in Team Formation. Conference on Web and Internet Economics (WINE), 2018. 
+* Tan Truong, Hannah Li, Young-Kwon Hong, Lu Chen. Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1. PLoS One, 2014. 
+
+# Teaching Experience
+* Fundamentals of Data Science, Stanford - Teaching Assistant
+* Data Science for Online Marketplaces, Stanford - Teaching Assistant
+* Abstract Algebra, Pomona College - Teaching Assistant
+* Operations Research, Pomona College - Teaching Assistant
+* Calculus II Honors, Pomona College - Teaching Assistant
 
 
