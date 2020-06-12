@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hannah Li"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+#About Me
 
  I'm a fourth year PhD Candidate at Stanford University, where I'm advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). I'm part of the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). 
 
