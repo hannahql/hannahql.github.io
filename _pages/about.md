@@ -31,4 +31,7 @@ Teaching Assistant
 * Operations Research, Pomona College 
 * Calculus II Honors, Pomona College 
 
+# Contact
+Email: hannahli@stanford.edu
+
 
