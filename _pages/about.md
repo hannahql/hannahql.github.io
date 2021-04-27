@@ -26,7 +26,7 @@ Email: hannahli \[at\] stanford.edu
 * Nikhil Garg, Hannah Li, Faidra Monachou. [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396). ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021. 
 * Ramesh Johari, Hannah Li, Gabriel Weintraub. [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670). ACM Conference on Economics and Computation (ACM EC), 2020.
 * Ramesh Johari, Vijay Kamble, Anilesh K. Krishnaswamy, Hannah Li. [Exploration vs. Exploitation in Team Formation](https://arxiv.org/abs/1809.06937). Conference on Web and Internet Economics (WINE), 2018. 
-* Tan Truong, Hannah Li, Young-Kwon Hong, Lu Chen. [Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1](https://pubmed.ncbi.nlm.nih.gov/24827370/). PLoS One, 2014. 
+* (From a previous life...) Tan Truong, Hannah Li, Young-Kwon Hong, Lu Chen. [Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1](https://pubmed.ncbi.nlm.nih.gov/24827370/). PLoS One, 2014. 
 
 # Teaching Experience
 Teaching Assistant
