@@ -18,9 +18,13 @@ I inform my research with first hand experience working on these platforms. I in
 
 Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
+# Contact
+Email: hannahli \[at\] stanford.edu
+
 # Publications
-* Nikhil Garg, Hannah Li, Faidra Monachou. [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396). Working paper. 
-* Ramesh Johari, Hannah Li, Gabriel Weintraub. [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670). To appear in ACM Conference on Economics and Computation (EC), 2020.
+* Hannah Li, Geng Zhao, Ramesh Johari, Gabriel Weintraub. [Interference, Bias, and Variance in Two-Sided Marketplace Experimentation: Guidance for Platforms](https://arxiv.org/abs/2104.12222). Working paper. 
+* Nikhil Garg, Hannah Li, Faidra Monachou. [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396). ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021. 
+* Ramesh Johari, Hannah Li, Gabriel Weintraub. [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670). ACM Conference on Economics and Computation (ACM EC), 2020.
 * Ramesh Johari, Vijay Kamble, Anilesh K. Krishnaswamy, Hannah Li. [Exploration vs. Exploitation in Team Formation](https://arxiv.org/abs/1809.06937). Conference on Web and Internet Economics (WINE), 2018. 
 * Tan Truong, Hannah Li, Young-Kwon Hong, Lu Chen. [Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1](https://pubmed.ncbi.nlm.nih.gov/24827370/). PLoS One, 2014. 
 
@@ -32,7 +36,6 @@ Teaching Assistant
 * Operations Research, Pomona College 
 * Calculus II Honors, Pomona College 
 
-# Contact
-Email: hannahli@stanford.edu
+
 
 
