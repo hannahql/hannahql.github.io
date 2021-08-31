@@ -22,8 +22,8 @@ Before coming to Stanford, I graduated from Pomona College with a degree in math
 Email: hannahli \[at\] stanford.edu
 
 # Publications
-* Ramesh Johari, Hannah Li, Gabriel Weintraub. [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670). Forthcoming in Management Science. Previously appeared in ACM Conference on Economics and Computation (ACM EC), 2020.
-* Hannah Li, Geng Zhao, Ramesh Johari, Gabriel Weintraub. [Interference, Bias, and Variance in Two-Sided Marketplace Experimentation: Guidance for Platforms](https://arxiv.org/abs/2104.12222). Working paper. 
+* Ramesh Johari, Hannah Li, Inessa Liskovich, Gabriel Weintraub. [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670). Forthcoming in Management Science. Previously appeared in ACM Conference on Economics and Computation (EC) 2020.
+* Hannah Li, Geng Zhao, Ramesh Johari, Gabriel Weintraub. [Interference, Bias, and Variance in Two-Sided Marketplace Experimentation: Guidance for Platforms](https://arxiv.org/abs/2104.12222). Working paper. Presented in EC '20 Workshop on Design of Online Platforms.
 * Nikhil Garg, Hannah Li, Faidra Monachou. [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396). ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021. 
 * Ramesh Johari, Vijay Kamble, Anilesh K. Krishnaswamy, Hannah Li. [Exploration vs. Exploitation in Team Formation](https://arxiv.org/abs/1809.06937). Conference on Web and Internet Economics (WINE), 2018. 
 * (From a previous life...) Tan Truong, Hannah Li, Young-Kwon Hong, Lu Chen. [Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1](https://pubmed.ncbi.nlm.nih.gov/24827370/). PLoS One, 2014. 
