@@ -14,7 +14,7 @@ Hi! I'm a fifth year PhD Candidate at Stanford University, where I'm advised by 
 
 My research is centered around the design and optimization of online marketplaces. In particular, I focus on developing statistical methodology for experimentation on these platforms, in the presence of interference. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. 
 
-I inform my research with first hand experience working on these platforms. I interned for the data science teams at Airbnb and Opendoor, where I worked on market related causal inference questions.
+I inform my research with first hand experience working on these platforms. I interned for the data science teams at Airbnb and Opendoor, where I worked on market related causal inference questions. I am also working with the [Common App](https://www.commonapp.org/) to help drive data-driven projects to improve the equity and access of secondary education. 
 
 Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
