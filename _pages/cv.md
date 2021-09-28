@@ -9,3 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
+
+Link to [CV](https://hannahql.github.io/files/Li_Hannah_CV.pdf) (Updated September 2021)
