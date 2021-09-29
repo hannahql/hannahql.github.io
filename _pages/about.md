@@ -16,7 +16,7 @@ My research is centered around the design and optimization of online marketplace
 
 I inform my research with first hand experience working on these platforms. I interned for the data science teams at [Airbnb](https://www.airbnb.com/) and [Opendoor](https://www.opendoor.com/), where I worked on market related causal inference questions. 
 
-I am also interested in using operations research techniques to design accessible education systems, both on the theory and application side. I am working with the [Common App](https://www.commonapp.org/) to help drive data-driven projects to improve the equity and access of secondary education. 
+I am also interested in using operations research techniques to design accessible education systems, both on the theory and application side. I am working with the [Common App](https://www.commonapp.org/) to help drive data-driven projects that improve the equity and access of secondary education. 
 
 
 # Contact
