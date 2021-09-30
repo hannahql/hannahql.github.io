@@ -22,7 +22,7 @@ I am also interested in using operations research techniques to design accessibl
 # Contact
 Email: hannahli \[at\] stanford.edu
 
-# Publications
+# Publications and Working Papers
 * [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  
 With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. 
   * Forthcoming in Management Science. Previously appeared in ACM Conference on Economics and Computation (EC) 2020.
