@@ -25,25 +25,35 @@ Email: hannahli \[at\] stanford.edu
 # Papers
 * [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  
 With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. 
-    * Forthcoming in Management Science. Previously appeared in ACM Conference on Economics and Computation (EC) 2020.
-    * Finalist, RMP Jeff McGill Student Paper Award 2021
-    * Presented in MSOM Service SIG 2021
+    * Forthcoming in *Management Science*. Previously appeared in *ACM Conference on Economics and Computation (EC) 2020*.
+    * Finalist, *RMP Jeff McGill Student Paper Award 2021*
+    * Presented in *MSOM Service SIG 2021*
 * [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396).
 With Nikhil Garg and Faidra Monachou. 
-    * ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021.
-    * Best Paper with a Student Presenter award at ACM EAAMO '21. 
+    * *ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021.*
+    * Best Paper with a Student Presenter award at *ACM EAAMO '21*. 
 * [Interference, Bias, and Variance in Two-Sided Marketplace Experimentation: Guidance for Platforms](https://arxiv.org/abs/2104.12222).   
 With Geng Zhao, Ramesh Johari, and Gabriel Weintraub.
-  * Presented in EC '20 Workshop on Design of Online Platforms. Working paper.
+  * Presented in *EC '20 Workshop on Design of Online Platforms*. Working paper.
 * [Exploration vs. Exploitation in Team Formation](https://arxiv.org/abs/1809.06937).  
 With Ramesh Johari, Vijay Kamble, and Anilesh K. Krishnaswamy.
-    * Conference on Web and Internet Economics (WINE), 2018. 
+    * Conference on *Web and Internet Economics (WINE) '18*. 
 * (From a previous life...) [Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1](https://pubmed.ncbi.nlm.nih.gov/24827370/).  
 With Tan Truong, Young-Kwon Hong, and Lu Chen.
-    * PLoS One, 2014. 
+    * *PLoS One, '14*. 
 
 
 
-
+# Recent and Upcoming Talks
+* Stanford Causal Science Center, November 2021
+* MIT [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2021-conference-on-digital-experimentation-mit-codemit/), November 2021
+* Informs Annual Meeting, October 2021
+    * In person: [Session SC33](https://www.abstractsonline.com/pp8/?__hstc=194041586.a90acb278345db53501e939c7cfdb9bf.1633661159000.1634542393767.1634574794886.15&__hssc=194041586.1.1634582035357&__hsfp=2402819146&hsCtaTracking=d8d10e67-4812-4af8-bdf8-a9a829003a4b%7C7ecf94a9-b599-46e2-afbe-66901c1144db#!/10390/session/1952) Sunday Oct 24, 11am-12:30pm.
+    * Virtual: [Session VTC16](https://www.abstractsonline.com/pp8/?__hstc=194041586.a90acb278345db53501e939c7cfdb9bf.1633661159000.1634542393767.1634574794886.15&__hssc=194041586.1.1634582035357&__hsfp=2402819146&hsCtaTracking=d8d10e67-4812-4af8-bdf8-a9a829003a4b%7C7ecf94a9-b599-46e2-afbe-66901c1144db#!/10390/session/143) Tuesday Oct 26, 11am-12:30pm.
+    * Virtual: [Session VWA16](https://www.abstractsonline.com/pp8/?__hstc=194041586.a90acb278345db53501e939c7cfdb9bf.1633661159000.1634542393767.1634574794886.15&__hssc=194041586.1.1634582035357&__hsfp=2402819146&hsCtaTracking=d8d10e67-4812-4af8-bdf8-a9a829003a4b%7C7ecf94a9-b599-46e2-afbe-66901c1144db#!/10390/session/145) Wed Oct 27, 6am-7am. (Presented by co-author Geng Zhao.)
+* Stanford [ISL Colloquium](https://isl.stanford.edu/talks/), October 2021
+* Cornell ORIE Young Researchers Workshop, October 2021
+* [MSOM Service Management SIG](https://msom2021.indiana.edu/), June 2021
+* [Marketplace Innovation Workshop](http://marketplaceinnovation.net/), May 2021. 
 
 
