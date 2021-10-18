@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm a fifth year PhD Candidate at Stanford University, where I'm advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). I'm part of the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
+Hi! I'm a fifth year PhD Candidate at Stanford University, where I'm advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). **I am on the 2021-22 job market.** I'm part of the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
 My research is centered around the design and optimization of online marketplaces. In particular, I focus on developing statistical methodology for experimentation on these platforms, in the presence of interference. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. 
 
