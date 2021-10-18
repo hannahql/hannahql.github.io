@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Teaching and Service"
+#title: ""
 permalink: /teaching_service/
 author_profile: true
 ---
