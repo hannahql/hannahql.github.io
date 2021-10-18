@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching and Service"
+permalink: /teaching_service/
+author_profile: true
+---
+
 # Teaching Experience
 I was a teaching assistant for:
 * Fundamentals of Data Science, Stanford MS&E 226
