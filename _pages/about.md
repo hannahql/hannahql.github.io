@@ -42,17 +42,6 @@ With Ramesh Johari, Vijay Kamble, and Anilesh K. Krishnaswamy.
 With Tan Truong, Young-Kwon Hong, and Lu Chen.
     * PLoS One, 2014. 
 
-# Teaching Experience
-Teaching Assistant for:
-* Fundamentals of Data Science, Stanford MS&E 226
-* Data Science for Online Marketplaces, Stanford OIT 521
-* Abstract Algebra, Pomona College 
-* Operations Research, Pomona College 
-* Calculus II Honors, Pomona College 
-
-# Diversity and Inclusion
-* Senior student mentor at EC'20 and EC'21
-* Mentor for community college students through Stanford Data Science Inclusive Mentoring Program
 
 
 
