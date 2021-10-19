@@ -33,7 +33,7 @@ Email: hannahli \[at\] stanford.edu
 * [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  
 With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. 
     * Forthcoming in *Management Science*. Previously appeared in *ACM Conference on Economics and Computation (EC) 2020*.
-    * Finalist, *RMP Jeff McGill Student Paper Award 2021*
+    * *RMP Jeff McGill Student Paper Award 2021*, 2nd place
     * Presented in *MSOM Service SIG 2021*
 * [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396).
 With Nikhil Garg and Faidra Monachou. 
