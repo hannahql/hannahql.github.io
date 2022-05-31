@@ -26,35 +26,17 @@ I am also interested in using operations research techniques to design accessibl
 # Contact
 Email: hannahli \[at\] stanford.edu
 
-# Papers
-* [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  
-With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. 
-    * Forthcoming in *Management Science*. Previously appeared in *ACM Conference on Economics and Computation (EC) 2020*.
-    * *RMP Jeff McGill Student Paper Award 2021*, 2nd place
-    * Presented in *MSOM Service Management SIG 2021*
-* [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396).
-With Nikhil Garg and Faidra Monachou. 
-    * *ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021.*
-    * Best Paper with a Student Presenter award at *ACM EAAMO '21*. 
-* [Interference, Bias, and Variance in Two-Sided Marketplace Experimentation: Guidance for Platforms](https://arxiv.org/abs/2104.12222).   
-With Geng Zhao, Ramesh Johari, and Gabriel Weintraub.
-  * Presented in *EC '20 Workshop on Design of Online Platforms*. Working paper.
-* [Exploration vs. Exploitation in Team Formation](https://arxiv.org/abs/1809.06937).  
-With Ramesh Johari, Vijay Kamble, and Anilesh K. Krishnaswamy.
-    * Conference on *Web and Internet Economics (WINE) '18*. 
-* (From a previous life...) [Novel Characterization and Live Imaging of Schlemm's Canal Expressing Prox-1](https://pubmed.ncbi.nlm.nih.gov/24827370/).  
-With Tan Truong, Young-Kwon Hong, and Lu Chen.
-    * *PLoS One, '14*. 
-
 
 
 # Recent and Upcoming Talks
+* [American Causal Inference Conference](https://ctml.berkeley.edu/american-causal-inference-conference-2022), May 2022. 
+* [Marketplace Innovation Workshop](http://marketplaceinnovation.net/), May 2022.
 * Stanford Causal Science Center, November 2021
 * MIT [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2021-conference-on-digital-experimentation-mit-codemit/), November 2021
 * Informs Annual Meeting, October 2021
 * Stanford [ISL Colloquium](https://isl.stanford.edu/talks/), October 2021
 * Cornell ORIE Young Researchers Workshop, October 2021
 * [MSOM Service Management SIG](https://msom2021.indiana.edu/), June 2021
-* [Marketplace Innovation Workshop](http://marketplaceinnovation.net/), May 2021. 
+
 
 
