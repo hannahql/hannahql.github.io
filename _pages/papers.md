@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
+---
+
 # Papers
 * [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  
 With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. 
