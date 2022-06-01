@@ -14,6 +14,8 @@ Hi! I'm a final year PhD Candidate at Stanford University, where I'm advised by 
 
 Starting Summer 2023, I will join [Columbia Business School](https://home.gsb.columbia.edu/) as an assistant professor in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division.
 
+# Research Areas
+
 My research is centered around the design and optimization of online marketplaces. In particular, I focus on developing statistical methodology for experimentation on these platforms, in the presence of interference. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. 
 
 I inform my research with first hand experience working on these platforms. I interned for the data science teams at [Airbnb](https://www.airbnb.com/) and [Opendoor](https://www.opendoor.com/), where I worked on market related causal inference questions. 
