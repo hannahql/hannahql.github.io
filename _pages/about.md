@@ -14,7 +14,7 @@ Hi! I'm a final year PhD Candidate at Stanford University, where I'm advised by 
 
 **Update:** I'm excited to announce that I will join [Columbia Business School](https://home.gsb.columbia.edu/) as an assistant professor in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division, starting Summer 2023!
 
-# Research Areas
+# Research Interests
 
 My research is centered around the design and optimization of online marketplaces. In particular, I focus on developing statistical methodology for experimentation on these platforms, in the presence of interference. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. 
 
@@ -28,7 +28,7 @@ I am also interested in using operations research techniques to design accessibl
 # Contact
 Email: hannahli \[at\] stanford.edu
 
-
+---
 
 # Recent and Upcoming Talks
 * [American Causal Inference Conference](https://ctml.berkeley.edu/american-causal-inference-conference-2022), May 2022. 
