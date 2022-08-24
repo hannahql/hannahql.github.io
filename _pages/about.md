@@ -26,7 +26,7 @@ I am also interested in using operations research techniques to design accessibl
 ---
 
 # Contact
-Email: hannahql \[at\] gmail.com
+Email: li.hannahq \[at\] gmail.com
 
 ---
 
