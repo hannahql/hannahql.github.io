@@ -28,17 +28,7 @@ I am also interested in using operations research techniques to design accessibl
 # Contact
 Email: li.hannahq \[at\] gmail.com
 
----
 
-# Recent and Upcoming Talks
-* [American Causal Inference Conference](https://ctml.berkeley.edu/american-causal-inference-conference-2022), May 2022. 
-* [Marketplace Innovation Workshop](http://marketplaceinnovation.net/), May 2022.
-* Stanford Causal Science Center, November 2021
-* MIT [Conference on Digital Experimentation (CODE)](https://ide.mit.edu/events/2021-conference-on-digital-experimentation-mit-codemit/), November 2021
-* Informs Annual Meeting, October 2021
-* Stanford [ISL Colloquium](https://isl.stanford.edu/talks/), October 2021
-* Cornell ORIE Young Researchers Workshop, October 2021
-* [MSOM Service Management SIG](https://msom2021.indiana.edu/), June 2021
 
 
 
