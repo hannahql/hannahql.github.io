@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm a final year PhD Candidate at Stanford University, where I'm advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). I'm part of the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
+I'm a Postdoctoral Associate at MIT. Previously, I received my PhD in Operations Research from Stanford University, where I was advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
 **Update:** I'm excited to announce that I will join [Columbia Business School](https://home.gsb.columbia.edu/) as an assistant professor in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division, starting Summer 2023!
 
