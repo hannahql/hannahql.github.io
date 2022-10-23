@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hannah Li"
 title_separator          : "-"
 name                     : &name "Hannah Li"
-description              : &description "PhD Candidate at Stanford University"
+description              : &description "Postdoctoral Associate at MIT"
 url                      : https://hannahql.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannahql/hannahql.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Hannah Li"
   avatar           : "bio_photo.jpg"
   bio              : "PhD Candidate at Stanford University"
-  location         : "Palo Alto, CA"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2jwEX7QAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
