@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hannah Li"
   avatar           : "bio_photo.jpg"
-  bio              : "PhD Candidate at Stanford University"
+  bio              : "Postdoc at MIT, Incoming Prof at Columbia"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -200,7 +200,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
