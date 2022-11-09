@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4RGB5WX9E4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4RGB5WX9E4');
+</script>
+
 # About Me
 
 Hi! I'm currently a Postdoctoral Associate at MIT, working with Aleksander Madry, Asu Ozdaglar, Daron Acemoglu, Adam Berinsky, and David Rand. 
