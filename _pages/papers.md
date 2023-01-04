@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 # Papers
+
+For an updated list of papers, see my [Google Scholar](https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en) page. 
+
 * [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  
 With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. 
     * Published in *Management Science*. Previously appeared in *ACM Conference on Economics and Computation (EC) 2020*.
