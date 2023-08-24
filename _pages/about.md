@@ -20,11 +20,11 @@ redirect_from:
 
 # About Me
 
-Hi! I'm currently a Postdoctoral Associate at MIT, working with Aleksander Madry, Asu Ozdaglar, Daron Acemoglu, Adam Berinsky, and David Rand. 
+Hi! I'm an assistant professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division. 
 
-I received my PhD in Operations Research from Stanford University, where I was advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). At Stanford I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
+Previously, I was a postdoctoral associate at MIT. I received my PhD in Operations Research from Stanford University, where I was advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). At Stanford I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
-**Update:** I'm excited to announce that I will join [Columbia Business School](https://home.gsb.columbia.edu/) as an assistant professor in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division, starting Summer 2023!
+
 
 # Research Interests
 
@@ -32,7 +32,7 @@ My research is centered around the design and optimization of online marketplace
 
 I inform my research with first hand experience working on these platforms. I interned for the data science teams at [Airbnb](https://www.airbnb.com/) and [Opendoor](https://www.opendoor.com/), where I worked on market related causal inference questions. 
 
-I am also interested in using operations research techniques to design accessible education systems, both on the theory and application side. I am working with the [Common App](https://www.commonapp.org/) to build data-driven tools to improve the equity and access of higher education. 
+I also operations research techniques to design accessible education systems, both on the theory and application side. I have worked with the [Common App](https://www.commonapp.org/) to build data-driven tools to improve the equity and access of higher education. 
 
 
 ---
