@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Hannah Li"
 title_separator          : "-"
 name                     : &name "Hannah Li"
-description              : &description "Postdoctoral Associate at MIT"
-url                      : https://hannahql.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor at Columbia Business School"
+url                      : https://hannahql.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannahql/hannahql.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hannah Li"
   avatar           : "bio_photo.jpg"
-  bio              : "Postdoc at MIT, Incoming Prof at Columbia"
-  location         : "Cambridge, MA"
+  bio              : "Assistant Professor at Columbia Business School"
+  location         : "New York, NY"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en"
