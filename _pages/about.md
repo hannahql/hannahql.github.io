@@ -38,7 +38,7 @@ I also operations research techniques to design accessible education systems, bo
 ---
 
 # Contact
-Email: li.hannahq \[at\] gmail.com
+Email: hannahli \[at\] gsb.columbia.edu
 
 
 
