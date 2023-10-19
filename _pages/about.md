@@ -28,7 +28,7 @@ Previously, I was a postdoctoral associate at MIT. I received my PhD in Operatio
 
 # Research Interests
 
-My research develops data science methods tailored to social systems, such as online marketplaces, education systems, and social media platforms. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. 
+My research develops data science methods tailored to social systems, such as online marketplaces, education systems, and social media platforms. In particular, I focus on experimentation and recommendation systems. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. 
 
 I inform my research with first hand experience working on these platforms. I interned for the data science teams at [Airbnb](https://www.airbnb.com/) and [Opendoor](https://www.opendoor.com/), where I worked on market related causal inference questions. 
 I also operations research techniques to design accessible education systems, both on the theory and application side. I have worked with the [Common App](https://www.commonapp.org/) to build data-driven tools to improve the equity and access of higher education. 
