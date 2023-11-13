@@ -20,19 +20,19 @@ redirect_from:
 
 # About Me
 
-Hi! I am an assistant professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division. 
+Hi! I am an Assistant Professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division. 
 
-Previously, I was a postdoctoral associate at MIT. I received my PhD in Operations Research from Stanford University, where I was advised by [Ramesh Johari](http://web.stanford.edu/~rjohari/) and [Gabriel Weintraub](https://gweintra.people.stanford.edu/). At Stanford I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
-
-
+Previously, I was a postdoctoral associate at MIT. I received my PhD in Operations Research from Stanford University, where I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
 
 # Research Interests
 
-My research develops data science methods tailored to social systems, such as online marketplaces, education systems, and social media platforms. In particular, I focus on experimentation and recommendation systems. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. 
+My research develops data science methods tailored to social systems, such as online marketplaces, education systems, social media, and digital health platforms. In particular, I focus on experimentation and recommendation systems. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. I inform my research with first hand experience working on these platforms. 
 
-I inform my research with first hand experience working on these platforms. I interned for the data science teams at [Airbnb](https://www.airbnb.com/) and [Opendoor](https://www.opendoor.com/), where I worked on market related causal inference questions. 
-I also operations research techniques to design accessible education systems, both on the theory and application side. I have worked with the [Common App](https://www.commonapp.org/) to build data-driven tools to improve the equity and access of higher education. 
-
+# News
+- Nov 2023: Plenary talk at [MIT CODE](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) on experimental design for public health interventions. Parallel session presentations on "Quantifying the Effect of Interference on Platform Decisions" and "Recommendation Algorithms and User Strategization: Minor Variations Lead to Large Behavioral Changes".
+- Oct 2023: Received the [Dantzig Dissertation Award](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award) and the [MSOM Service Management SIG Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Service-Management-SIG-Best-Paper-Award) at INFORMS.
+- Oct 2023: Co-organizing a series of three INFORMS sessions on experimentation, with [Hongseok Namkong](https://hsnamkoong.github.io/).
+- July 2023: Made the move from Boston to New York!
 
 ---
 
