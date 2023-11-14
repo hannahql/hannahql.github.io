@@ -26,7 +26,9 @@ Previously, I was a postdoctoral associate at MIT. I received my PhD in Operatio
 
 # Research Interests
 
-My research develops data science methods tailored to social systems, such as online marketplaces, education systems, social media, and digital health platforms. In particular, I focus on experimentation and recommendation systems. I combine techniques from statistics, causal inference, economics, and operations research to develop theoretical insights for practically motivated problems. I inform my research with first hand experience working on these platforms. 
+My research develops data science methods tailored to social systems, such as online marketplaces, education systems, social media, and digital health platforms. In particular, I focus on experimentation and recommendation systems. 
+
+I combine interdisciplinary approaches from operations research, statistics, causal inference, and economics to develop practical solutions with theoretical guarantees. I inform my research with first hand experience working on these platforms. 
 
 # News
 - Nov 2023: Plenary talk at [MIT CODE](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) on experimental design for public health interventions. Parallel session presentations on "Quantifying the Effect of Interference on Platform Decisions" and "Recommendation Algorithms and User Strategization: Minor Variations Lead to Large Behavioral Changes."
