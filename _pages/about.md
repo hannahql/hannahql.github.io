@@ -28,13 +28,14 @@ Previously, I was a postdoctoral associate at MIT. I received my PhD in Operatio
 
 My research develops data science methods tailored to social systems, such as online marketplaces, education systems, social media, and digital health platforms. In particular, I focus on experimentation and recommendation systems. 
 
-I combine interdisciplinary approaches from operations research, statistics, causal inference, and economics to develop practical solutions with theoretical guarantees. I inform my research with first hand experience working on these platforms. 
+My work combines interdisciplinary approaches from operations research, statistics, causal inference, and economics to develop practical solutions with theoretical guarantees. I inform my research with first hand experience working on these platforms. 
 
 # News
 - Nov 2023: Plenary talk at [MIT CODE](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) on experimental design for public health interventions. Parallel session presentations on "Quantifying the Effect of Interference on Platform Decisions" and "Recommendation Algorithms and User Strategization: Minor Variations Lead to Large Behavioral Changes."
-- Oct 2023: Received the [Dantzig Dissertation Award](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award) and the [MSOM Service Management SIG Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Service-Management-SIG-Best-Paper-Award) at INFORMS.
-- Oct 2023: Co-organizing a series of three INFORMS sessions on experimentation, with [Hongseok Namkong](https://hsnamkoong.github.io/).
+- Oct 2023: Received the INFORMS [Dantzig Dissertation Award](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award) for my dissertation "Experimental Design and Decision-Making in Marketplace Platforms." Received the [MSOM Service Management SIG Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Service-Management-SIG-Best-Paper-Award) for my paper "Experimental Design in Two-Sided Platforms: An Analysis of Bias."
+- Oct 2023: Co-organizing a series of three INFORMS sessions on the Frontiers of Experimentation, with [Hongseok Namkong](https://hsnamkoong.github.io/).
 - July 2023: Made the move from Boston to New York!
+- 
 
 ---
 
