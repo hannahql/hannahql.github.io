@@ -32,5 +32,5 @@ With Tan Truong, Young-Kwon Hong, and Lu Chen.
 
 
 # Dissertation
-* "Experimental Design and Decision-Making in Marketplace Platforms."  
+*  "Experimental Design and Decision-Making in Marketplace Platforms."  
    * Winner of the [George B. Dantzig Dissertation Award](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award).
