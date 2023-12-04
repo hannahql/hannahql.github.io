@@ -35,7 +35,6 @@ My work combines interdisciplinary approaches from operations research, statisti
 - Oct 2023: Received the INFORMS [Dantzig Dissertation Award](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award) for my dissertation "Experimental Design and Decision-Making in Marketplace Platforms." Received the [MSOM Service Management SIG Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Service-Management-SIG-Best-Paper-Award) for my paper "Experimental Design in Two-Sided Platforms: An Analysis of Bias."
 - Oct 2023: Co-organizing a series of three INFORMS sessions on the Frontiers of Experimentation, with [Hongseok Namkong](https://hsnamkoong.github.io/).
 - July 2023: Made the move from Boston to New York!
-- 
 
 ---
 
