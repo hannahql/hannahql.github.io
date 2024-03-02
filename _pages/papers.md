@@ -8,7 +8,7 @@ author_profile: true
 For an updated list of papers, see my [Google Scholar](https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en) page. 
 
 # Working papers
-* "Measuring Strategization in Recommendation: Users Adapt Their Behavior to Shape Future Content." With Sarah Cen, Andrew Ilyas, Jennifer Allen, and Aleksander Madry. 
+* "Measuring Strategization in Recommendation Systems: Users Adapt Their Behavior to Shape Future Content." With Sarah Cen, Andrew Ilyas, Jennifer Allen, and Aleksander Madry. 
 * "Randomized Controlled Trials for Service Interventions: The Role of Capacity Constraints." With Justin Boutilier, Jonas O. Jonasson, and Erez Yoeli
 * [Matching of Users and Creators in Two-Sided Markets with Departures](https://arxiv.org/abs/2401.00313). With Daniel Huttenlocher, Liang (Charles) Lyu, Asuman Ozdaglar, and James Siderius
  
