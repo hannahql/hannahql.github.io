@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Click here for my [Google Scholar Profile](https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en). 
+Click here for my [Google Scholar profile](https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en). 
 
 ### Working papers
 * [Measuring Strategization in Recommendation Systems: Users Adapt Their Behavior to Shape Future Content.](https://arxiv.org/abs/2405.05596) With Sarah Cen, Andrew Ilyas, Jennifer Allen, and Aleksander Madry. 
