@@ -18,12 +18,12 @@ Best Paper with a Student Presenter award at *ACM EAAMO '21*.
 * [Randomized Controlled Trials for Service Interventions: The Role of Capacity Constraints](https://arxiv.org/abs/2407.21322). With Justin Boutilier, Jonas O. Jonasson, and Erez Yoeli.
 * [When Does Interference Matter? Decision-Making in Platform Experiments](https://arxiv.org/abs/2410.06580). With Ramesh Johari, Anushka Murthy, and Gabriel Weintraub. 
 * [Matching of Users and Creators in Two-Sided Markets with Departures](https://arxiv.org/abs/2401.00313). With Dan Huttenlocher, Liang (Charles) Lyu, Asuman Ozdaglar, and James Siderius
-* Wikipedia Contributions in the Wake of ChatGPT. With Liang (Charles) Lyu, James Siderius, Daron Acemoglu, Dan Huttenlocher, and Asu Ozdaglar. 
+
  
 
 
 ### Peer-reviewed
-
+* [Wikipedia Contributions in the Wake of ChatGPT](https://arxiv.org/abs/2503.00757). With Liang (Charles) Lyu, James Siderius, Daron Acemoglu, Dan Huttenlocher, and Asu Ozdaglar. *The ACM Web Conference (WWW) 2025*.
 * [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. *Management Science 2022*. Extended abstract in *ACM Conference on Economics and Computation (EC) 2020*.
     * Awards: Part of INFORMS *Dantzig Dissertation Award 2023* , Best Paper Award at *MSOM Service Management SIG 2023*, 2nd place at *RMP Jeff McGill Student Paper Award 2021*
 * [Interference, Bias, and Variance in Two-Sided Marketplace Experimentation: Guidance for Platforms](https://arxiv.org/abs/2104.12222). With Geng Zhao, Ramesh Johari, and Gabriel Weintraub. *Proceedings of The Web Conference 2022*.
