@@ -12,7 +12,7 @@ For an up to date list of papers, see my [Google Scholar profile](https://schola
    * Major Revision at Management Science.
    * Extended abstract appeared in *ACM EC '24*
 * [Standardized Tests and Affirmative Action: The Role of Bias and Variance](https://arxiv.org/abs/2010.04396). With Nikhil Garg and Faidra Monachou. *ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021.*
-  * Major Revision at Management Science. 
+  * Minor Revision at Management Science. 
   * Awards: Inaugural *INFORMS DEI Best Student Paper Award 2022*, 
 Best Paper with a Student Presenter award at *ACM EAAMO '21*. 
 * [Randomized Controlled Trials for Service Interventions: The Role of Capacity Constraints](https://arxiv.org/abs/2407.21322). With Justin Boutilier, Jonas O. Jonasson, and Erez Yoeli.
