@@ -16,6 +16,7 @@ For an up to date list of papers, see my [Google Scholar profile](https://schola
   * Awards: Inaugural *INFORMS DEI Best Student Paper Award 2022*, 
 Best Paper with a Student Presenter award at *ACM EAAMO '21*. 
 * [Randomized Controlled Trials for Service Interventions: The Role of Capacity Constraints](https://arxiv.org/abs/2407.21322). With Justin Boutilier, Jonas O. Jonasson, and Erez Yoeli.
+* [Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising](https://arxiv.org/abs/2505.13325). With Kara Schechtman, Benjamin Brandon, Jenise Stafford, and Lydia T. Liu.
 * [When Does Interference Matter? Decision-Making in Platform Experiments](https://arxiv.org/abs/2410.06580). With Ramesh Johari, Anushka Murthy, and Gabriel Weintraub. 
 * [Matching of Users and Creators in Two-Sided Markets with Departures](https://arxiv.org/abs/2401.00313). With Dan Huttenlocher, Liang (Charles) Lyu, Asuman Ozdaglar, and James Siderius
 
