@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /media/
+permalink: /talks_and_media/
 author_profile: true
 ---
 
