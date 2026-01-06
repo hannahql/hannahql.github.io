@@ -24,6 +24,7 @@ Best Paper with a Student Presenter award at *ACM EAAMO '21*.
 
 
 ### Peer-reviewed
+* [Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising](https://arxiv.org/abs/2505.13325). With Kara Schechtman, Benjamin Brandon, Jenise Stafford, and Lydia T. Liu. Extended abstract in *ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2025*. 
 * [Wikipedia Contributions in the Wake of ChatGPT](https://arxiv.org/abs/2503.00757). With Liang (Charles) Lyu, James Siderius, Daron Acemoglu, Dan Huttenlocher, and Asu Ozdaglar. *The ACM Web Conference (WWW) 2025*.
 * [Experimental Design in Two-Sided Platforms: An Analysis of Bias](https://arxiv.org/abs/2002.05670).  With Ramesh Johari, Inessa Liskovich, and Gabriel Weintraub. *Management Science 2022*. Extended abstract in *ACM Conference on Economics and Computation (EC) 2020*.
     * Awards: Part of INFORMS *Dantzig Dissertation Award 2023* , Best Paper Award at *MSOM Service Management SIG 2023*, 2nd place at *RMP Jeff McGill Student Paper Award 2021*
