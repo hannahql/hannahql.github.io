@@ -20,15 +20,15 @@ redirect_from:
 
 # About Me
 
-Hi! I am an Assistant Professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division. 
+Hi! I am an Assistant Professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division and a member of the [Data Science Institute](https://datascience.columbia.edu/).
 
-Previously, I was a postdoctoral associate at MIT. I received my PhD in Operations Research from Stanford University, where I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
+Previously, I received my PhD in Operations Research from Stanford University, where I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/) and was a postdoctoral associate at MIT. I graduated from Pomona College with a degree in mathematics. 
 
 # Research Interests
 
-My research develops data science methods tailored to social systems, such as online marketplaces, education systems, social media, and digital health platforms. In particular, I focus on experimentation and recommendation systems. 
+My research develops data science methods tailored to social systems, such as online marketplaces, education systems, social media, and digital health platforms. In particular, I focus on experimentation, recommendation systems, and early warning systems. 
 
-My work combines interdisciplinary approaches from operations research, statistics, causal inference, and economics to develop practical solutions with theoretical guarantees. I inform my research with first hand experience working on these platforms. 
+My work combines interdisciplinary approaches from operations research, statistics, causal inference, and economics to develop practical solutions with theoretical guarantees. I inform my research with first hand experience working with these platforms. 
 
 # News
 - Nov 2023: Plenary talk at [MIT CODE](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) on experimental design for public health interventions (see [talk recording](https://www.youtube.com/watch?v=LTeKJUR4lsI)).
