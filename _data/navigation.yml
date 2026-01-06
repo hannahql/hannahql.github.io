@@ -1,13 +1,11 @@
 # main links links
-main:
-#   - title: "Research"
-#     url: /publications/
-
-#   - title: "Talks"
-#     url: /talks/    
+main: 
 
   - title: "Research"
     url: /publications/
+
+  - title: "Talks and Media"
+    url: /talks_and_media/
 
   - title: "Teaching and Service"
     url: /teaching_service/    
