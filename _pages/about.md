@@ -22,7 +22,7 @@ redirect_from:
 
 Hi! I am an Assistant Professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division and a member of the [Data Science Institute](https://datascience.columbia.edu/).
 
-Previously, I received my PhD in Operations Research from Stanford University, where I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/) and was a postdoctoral associate at MIT. I graduated from Pomona College with a degree in mathematics. 
+Previously, I received my PhD in Operations Research from Stanford University, where I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). I was a postdoctoral associate at MIT. I graduated from Pomona College with a degree in mathematics. 
 
 
 # Research Interests
