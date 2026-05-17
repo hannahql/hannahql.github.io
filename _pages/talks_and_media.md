@@ -7,15 +7,17 @@ author_profile: true
 
 # Media
 
-## Talks
+## Research Talks
 "Operational Dosage: Implications of Capacity Constraints for the Design and Interpretation of Experiments": 
-- Nov 2023 Plenary talk at MIT CODE: see [talk recording](https://www.youtube.com/watch?v=LTeKJUR4lsI) and [paper](https://arxiv.org/abs/2407.21322).
+- Jan 2026: Invited talk at the Simons 2026 Workshop on Bridging Prediction and Intervention Problems in Social Systems. See [abstract, slides, and talk recording](https://simons.berkeley.edu/talks/hannah-li-columbia-university-2026-01-12). 
+- Nov 2023: Plenary talk at MIT CODE: see [talk recording](https://www.youtube.com/watch?v=LTeKJUR4lsI) and [paper](https://arxiv.org/abs/2407.21322).
 
 ## Research briefs and media mentions
 
 "Experimental Design in Two-Sided Platforms: An Analysis of Bias":
-- April 2024 article [Uncovering the Costly Bias in Marketplace Testing](https://business.columbia.edu/research-brief/ab-testing-bias-marketplaces) by Columbia Business School.
 - May 2024 article [A/B Testing Gets an Upgrade for the Digital Age](https://www.gsb.stanford.edu/insights/ab-testing-gets-upgrade-digital-age) by Insights by Stanford Business.
+- April 2024 article [Uncovering the Costly Bias in Marketplace Testing](https://business.columbia.edu/research-brief/ab-testing-bias-marketplaces) by Columbia Business School.
+- January 2023 [highlight](https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Marketplace-Experimentation-Competition-Creates-Interference-Bias) in the *Management Science Review* blog. 
 
 "Measuring Strategization in Recommendation: Users Adapt Their Behavior to Shape Future Content"
 - Discussed in the April 2024 article [Uncovering the Costly Bias in Marketplace Testing](https://business.columbia.edu/research-brief/ab-testing-bias-marketplaces) by Columbia Business School.
