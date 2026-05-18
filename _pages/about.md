@@ -30,13 +30,13 @@ I draw on techniques from operations research, statistics, and causal inference 
 
 
 # News
-- Apr 26: I am co-chairing the [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'26)](https://conference.eaamo.org/), which will be held at held November 5–7, 2026 at LMU Munich. If you have work on the equitable deployment of algorithms, please [submit](https://conference.eaamo.org/cfp/)!
+- Nov '26: I am co-chairing the [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'26)](https://conference.eaamo.org/), which will be held at held November 5–7, 2026 at LMU Munich. If you have work on the equitable deployment of algorithms, please [submit](https://conference.eaamo.org/cfp/)!
 
-- Apr 26: I am co-chairing the [DRO/Deming Workshop on Experimentation for Decision-Making](https://events.business.columbia.edu/event/drodeming-workshop-experimentation-decision-making), which will be held at Columbia Business School on May 1, 2026. 
+- Apr '26: I am co-chairing the [DRO/Deming Workshop on Experimentation for Decision-Making](https://events.business.columbia.edu/event/drodeming-workshop-experimentation-decision-making), which will be held at Columbia Business School on May 1, 2026. 
 
-- Jan 26: I gave a talk on our work "Operational Dosage: The Impact of Capacity Constraints on RCT Evaluation" at the Simons 2026 Workshop on Bridging Prediction and Intervention Problems in Social Systems. See [abstract](https://simons.berkeley.edu/talks/hannah-li-columbia-university-2026-01-12) and [talk recording](https://www.youtube.com/watch?v=JuwBU7-Sfcc). 
+- Jan '26: I gave a talk on our work "Operational Dosage: The Impact of Capacity Constraints on RCT Evaluation" at the Simons 2026 Workshop on Bridging Prediction and Intervention Problems in Social Systems. See [abstract](https://simons.berkeley.edu/talks/hannah-li-columbia-university-2026-01-12) and [talk recording](https://www.youtube.com/watch?v=JuwBU7-Sfcc). 
 
-- Sep 25: Our paper "Wikipedia Contributions in the Wake of ChatGPT" was mentioned in the Wall Street Journal column [Will AI Choke Off the Supply of Knowledge?](https://www.wsj.com/tech/ai/will-ai-choke-off-the-supply-of-knowledge-8a71cbcd?st=tfwGdC&reflink=desktopwebshare_permalink)
+- Sep '25: Our paper "Wikipedia Contributions in the Wake of ChatGPT" was mentioned in the Wall Street Journal column [Will AI Choke Off the Supply of Knowledge?](https://www.wsj.com/tech/ai/will-ai-choke-off-the-supply-of-knowledge-8a71cbcd?st=tfwGdC&reflink=desktopwebshare_permalink)
 and featured in a Columbia Business School [research highlight](https://business.columbia.edu/research-brief/chatgpt-wikipedia-traffic-decline) and [video overview](https://www.youtube.com/watch?time_continue=2&v=rZwQlaaqHV0&embeds_referring_euri=https%3A%2F%2Fbusiness.columbia.edu%2F&source_ve_path=Mjg2NjY).
 
 ---
