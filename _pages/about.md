@@ -23,8 +23,7 @@ redirect_from:
 Hi! I am an Assistant Professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division and a member of the [Data Science Institute](https://datascience.columbia.edu/). Previously, I  received my PhD in Operations Research from Stanford University and was a postdoctoral associate at MIT. I graduated from Pomona College with a degree in mathematics.
 
 
-My research focuses on evaluating, running, and scaling algorithmic interventions in systems where standard i.i.d. assumptions break down, situations where capacity is limited,  users interact with each other, or the intervention creates downstream changes in the system.
-These complications arise in online platforms, education systems, and healthcare systems, and require new methods in traditional data science tools, such as experimentation, recommendation systems, and early warning systems. 
+My research focuses on evaluating, running, and scaling algorithmic interventions in systems where standard i.i.d. assumptions break down: situations where capacity is limited,  users interact with each other, or the intervention creates downstream changes in the system. These complications arise in online platforms, education systems, and healthcare systems, and require new methods in traditional data science tools, such as experimentation, recommendation systems, and early warning systems. 
 
 I draw on techniques from operations research, statistics, and causal inference both to understand when and why traditional methods fail and to develop better methods. I develop this work through collaborations with industry (Airbnb, Vinted), non-profit organizations (National Institute of Student Success, Keheala), and hospital systems (Columbia University Irving Medical Center/New York Presbyterian).
 
