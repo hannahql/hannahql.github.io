@@ -32,7 +32,7 @@ I draw on techniques from operations research, statistics, and causal inference 
 # News
 - Nov '26: I am co-chairing the [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'26)](https://conference.eaamo.org/), which will be held at held November 5–7, 2026 at LMU Munich. If you have work on the equitable deployment of algorithms, please [submit](https://conference.eaamo.org/cfp/)!
 
-- Apr '26: I am co-chairing the [DRO/Deming Workshop on Experimentation for Decision-Making](https://events.business.columbia.edu/event/drodeming-workshop-experimentation-decision-making), which will be held at Columbia Business School on May 1, 2026. 
+- Apr '26: I am co-chairing the [DRO/Deming Workshop on Experimentation for Decision-Making](https://events.business.columbia.edu/event/drodeming-workshop-experimentation-decision-making), which will be held at Columbia Business School on May 1, 2026. This workshop will features research developments from industry and academia, with a focus on using experiments to drive better decisions.
 
 - Jan '26: I gave a talk on our work "Operational Dosage: The Impact of Capacity Constraints on RCT Evaluation" at the Simons 2026 Workshop on Bridging Prediction and Intervention Problems in Social Systems. See [abstract](https://simons.berkeley.edu/talks/hannah-li-columbia-university-2026-01-12) and [talk recording](https://www.youtube.com/watch?v=JuwBU7-Sfcc). 
 
