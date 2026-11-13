@@ -8,6 +8,7 @@ author_profile: true
 For an up to date list of papers, see my [Google Scholar profile](https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en). 
 
 ### Working papers
+* [When Representative Samples Produce Worse Outcomes: Scale-up Decisions and Testing in Small-Budget RCTs](https://arxiv.org/abs/2606.13531). With Hongseok Namkoong and Isaac Scheinfeld.
 * [Measuring Strategization in Recommendation Systems: Users Adapt Their Behavior to Shape Future Content](https://arxiv.org/abs/2405.05596). With Sarah Cen, Andrew Ilyas, Jennifer Allen, and Aleksander Madry.
    * Minor Revision at Management Science.
    * Extended abstract appeared in *ACM EC '24*
